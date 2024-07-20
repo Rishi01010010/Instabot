@@ -15,8 +15,8 @@ if len(sys.argv) < 2:
 image_path = sys.argv[1]
 
 # Define your credentials
-username = 'risheek_r_'
-password = '$Rr01010010'
+username = 'your username'
+password = 'your password'
 
 # Set up Firefox options
 firefox_options = Options()
