@@ -8,8 +8,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.firefox import GeckoDriverManager
 
 # Define your credentials
-username = 'risheek_r_'
-password = '$Rr01010010'
+username = 'your username'
+password = 'your password'
 
 # Correct path to the image to post
 image_path = r"D:\InstaBot\image_to_post\gan.png"
